@@ -2,10 +2,8 @@
   "gitSyncId": "681dfa287c6dc22d0e348bb7_66445767-9766-4e93-964a-871ebf0d6e77",
   "id": "Page2__$GetTenUsers1$_GetTenUsers",
   "isPublic": true,
-  "moduleInstanceId": "Page2_GetTenUsers1",
   "pluginId": "postgres-plugin",
   "pluginType": "DB",
-  "rootModuleInstanceId": "Page2_GetTenUsers1",
   "unpublishedAction": {
     "confirmBeforeExecute": false,
     "contextType": "PAGE",
